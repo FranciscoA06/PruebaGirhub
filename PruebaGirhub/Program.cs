@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             // VARIABLES
+            string nombreCompleto
 
             // ENTRADA
 
